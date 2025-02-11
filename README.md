@@ -63,3 +63,5 @@ The following models were trained and evaluated:
 | XGBoost Classifier        | 0.9923   | 0.9923   | 0.9967        |
 
 The **XGBoost Classifier** achieved the best performance on the validation set with an Accuracy of 0.9923 and an AUC-ROC Score of 0.9967. This model was used to generate the final predictions for the test set.
+
+![XGB ROC Curve](xgb_roc_curve.png)
